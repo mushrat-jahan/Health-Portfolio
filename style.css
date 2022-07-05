@@ -8,7 +8,7 @@ margin: 0;
 }
 .flexible-container {
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -48,6 +48,59 @@ h1{
     margin-bottom: 0%;
 }
 .about-me {
-    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    background-size: cover;
+}
+.recipe{
+    text-align: center;
+}
+.lorem{
+    text-align: center;
+}
+.recipie-title{
+    width: 60%;
+    margin-left: 5%;
+    margin-top: auto;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.image img{
+    width: 90%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 5%;
+}
+h2{
+    text-align: center;
+}
+.last-one {
+    width: 60%;
+    margin-left: 15%;
+    margin-right: 80%;
+    padding-left: 100px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+    justify-content: space-between;
+    padding-right: 70px;
+    padding-bottom: 5%;
+}
+
+footer{
+    background-color: rgb(18, 18, 18);
+    margin-bottom: 0;
+    padding: 60px;
+}
+.foot{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 40px;
+}
+.peramoy{
+    text-align: center;
+    color: white;
 }
